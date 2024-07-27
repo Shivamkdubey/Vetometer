@@ -27,3 +27,8 @@ Vetometer is a dynamic polling tool designed to integrate seamlessly with social
 
 1. Open the same poll from Vetometer homepage and click on the poll whose result you wish to see.
    Note: If it's a private poll, where you were not requested to vote & you aren't the owner, then you can't open it.
+
+![Vetometer App Screenshot](https://github.com/user-attachments/assets/c2297f6d-d3e7-4031-a372-a67150986c7d)
+*Note: This is the actual screenshot of the Vetometer app, not a design mockup.*
+
+
